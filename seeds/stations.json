@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "stations": [
+    {
+      "id": "kcsm",
+      "name": "KCSM Jazz 91",
+      "callLetters": "KCSM",
+      "frequency": "91.1 FM",
+      "genre": "jazz",
+      "streamURL": "https://ice5.securenetsystems.net/KCSM",
+      "description": "Bay Area jazz, 24/7, commercial-free.",
+      "city": "San Mateo"
+    },
+    {
+      "id": "kqed",
+      "name": "KQED Public Radio",
+      "callLetters": "KQED",
+      "frequency": "88.5 FM",
+      "genre": "public",
+      "streamURL": "https://streams.kqed.org/kqedradio",
+      "description": "NPR news and talk.",
+      "city": "San Francisco"
+    },
+    {
+      "id": "kalw",
+      "name": "KALW",
+      "callLetters": "KALW",
+      "frequency": "91.7 FM",
+      "genre": "public",
+      "streamURL": "https://live.kalw.org/kalw.mp3",
+      "description": "Independent public radio.",
+      "city": "San Francisco"
+    },
+    {
+      "id": "kpfa",
+      "name": "KPFA",
+      "callLetters": "KPFA",
+      "frequency": "94.1 FM",
+      "genre": "public",
+      "streamURL": "https://streams.kpfa.org/kpfa",
+      "description": "Listener-sponsored, Pacifica Network.",
+      "city": "Berkeley"
+    },
+    {
+      "id": "kalx",
+      "name": "KALX Berkeley",
+      "callLetters": "KALX",
+      "frequency": "90.7 FM",
+      "genre": "college",
+      "streamURL": "https://stream.kalx.berkeley.edu:8443/kalx-128.mp3",
+      "description": "UC Berkeley student radio.",
+      "city": "Berkeley"
+    },
+    {
+      "id": "kzsu",
+      "name": "KZSU Stanford",
+      "callLetters": "KZSU",
+      "frequency": "90.1 FM",
+      "genre": "college",
+      "streamURL": "https://stream.stanford.edu/kzsu-high",
+      "description": "Stanford student radio.",
+      "city": "Stanford"
+    },
+    {
+      "id": "kpoo",
+      "name": "KPOO",
+      "callLetters": "KPOO",
+      "frequency": "89.5 FM",
+      "genre": "indie",
+      "streamURL": "https://ice7.securenetsystems.net/KPOO",
+      "description": "Poor People's Radio, SF.",
+      "city": "San Francisco"
+    },
+    {
+      "id": "somafm-groove-salad",
+      "name": "SomaFM Groove Salad",
+      "callLetters": "SOMA",
+      "frequency": null,
+      "genre": "specialty",
+      "streamURL": "https://ice1.somafm.com/groovesalad-128-mp3",
+      "description": "Ambient downtempo, SF-based.",
+      "city": "San Francisco"
+    },
+    {
+      "id": "somafm-drone-zone",
+      "name": "SomaFM Drone Zone",
+      "callLetters": "SOMA",
+      "frequency": null,
+      "genre": "specialty",
+      "streamURL": "https://ice1.somafm.com/dronezone-128-mp3",
+      "description": "Atmospheric space music.",
+      "city": "San Francisco"
+    },
+    {
+      "id": "somafm-indie-pop",
+      "name": "SomaFM Indie Pop Rocks",
+      "callLetters": "SOMA",
+      "frequency": null,
+      "genre": "indie",
+      "streamURL": "https://ice1.somafm.com/indiepop-128-mp3",
+      "description": "Indie pop rock classics.",
+      "city": "San Francisco"
+    },
+    {
+      "id": "somafm-folk-forward",
+      "name": "SomaFM Folk Forward",
+      "callLetters": "SOMA",
+      "frequency": null,
+      "genre": "indie",
+      "streamURL": "https://ice1.somafm.com/folkfwd-128-mp3",
+      "description": "Indie folk and Americana.",
+      "city": "San Francisco"
+    },
+    {
+      "id": "somafm-underground-80s",
+      "name": "SomaFM Underground 80s",
+      "callLetters": "SOMA",
+      "frequency": null,
+      "genre": "specialty",
+      "streamURL": "https://ice1.somafm.com/u80s-128-mp3",
+      "description": "80s new wave and post-punk.",
+      "city": "San Francisco"
+    },
+    {
+      "id": "somafm-seven-inch-soul",
+      "name": "SomaFM Seven Inch Soul",
+      "callLetters": "SOMA",
+      "frequency": null,
+      "genre": "specialty",
+      "streamURL": "https://ice1.somafm.com/7soul-128-mp3",
+      "description": "Rare soul 45s.",
+      "city": "San Francisco"
+    },
+    {
+      "id": "somafm-sonic-universe",
+      "name": "SomaFM Sonic Universe",
+      "callLetters": "SOMA",
+      "frequency": null,
+      "genre": "jazz",
+      "streamURL": "https://ice1.somafm.com/sonicuniverse-128-mp3",
+      "description": "Progressive and avant-garde jazz.",
+      "city": "San Francisco"
+    },
+    {
+      "id": "bff-fm",
+      "name": "BFF.fm",
+      "callLetters": "BFF",
+      "frequency": null,
+      "genre": "indie",
+      "streamURL": "https://ice6.securenetsystems.net/BFFFM",
+      "description": "Best Frequencies Forever, community radio SF.",
+      "city": "San Francisco"
+    }
+  ]
+}
