@@ -1,14 +1,22 @@
 # macOS
 .DS_Store
+._*
 
-# Xcode
+# Xcode — user-specific project state (match at any depth)
+**/xcuserdata/
+**/*.xcuserstate
+**/*.xcscmblueprint
+**/*.xccheckout
+
+# Xcode — build outputs
 build/
 DerivedData/
-*.xcodeproj/xcuserdata/
-*.xcworkspace/xcuserdata/
-*.xcuserstate
-*.xcscmblueprint
-*.xccheckout
+**/DerivedData/
+*.ipa
+*.dSYM
+*.dSYM.zip
+*.moved-aside
+*.hmap
 
 # Swift Package Manager
 .build/
@@ -17,9 +25,8 @@ Packages/
 Package.pins
 Package.resolved
 
-# User-specific
-*.moved-aside
-*.hmap
-*.ipa
-*.dSYM.zip
-*.dSYM
+# Python (scripts/)
+__pycache__/
+*.pyc
+.venv/
+venv/
