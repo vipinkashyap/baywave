@@ -8,6 +8,12 @@ ShazamKit capability is required.
 
 **Not for the App Store.** Build from source.
 
+<p>
+  <img src="docs/mac-popover.png" alt="BayWave menu bar popover on macOS showing a matched song" width="340" />
+  &nbsp;
+  <img src="docs/ios-home.png" alt="BayWave on iOS showing the New York region" width="260" />
+</p>
+
 ## What it does
 
 - Streams live internet radio via `AVPlayer`. 83 curated stations across four
