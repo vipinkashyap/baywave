@@ -667,7 +667,7 @@
       "callLetters": "1FM",
       "frequency": null,
       "genre": "indie",
-      "streamURL": "https://strmreg.1.fm/bombaybeats_mobile_mp3",
+      "streamURL": "http://listen.181fm.com/181-eagle_128k.mp3",
       "description": "Bollywood and Indian electronic.",
       "city": "Mumbai",
       "region": "India"
@@ -843,7 +843,7 @@
       "callLetters": "KPCC",
       "frequency": "89.3 FM",
       "genre": "public",
-      "streamURL": "https://live.amperwave.net/direct/southerncalipr-kpccfmmp3-imc.mp3",
+      "streamURL": "https://laist.streamguys1.com/kpcc-mp3?aw_0_1st.playerId=laist",
       "description": "Southern California NPR.",
       "city": "Pasadena",
       "region": "Los Angeles"
