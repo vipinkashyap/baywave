@@ -744,7 +744,7 @@
       "callLetters": "AIR",
       "frequency": null,
       "genre": "public",
-      "streamURL": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac",
       "description": "AIR Hyderabad \u2014 Telugu news and music.",
       "city": "Hyderabad",
       "region": "India"
@@ -755,7 +755,7 @@
       "callLetters": "AIR",
       "frequency": "102 FM",
       "genre": "public",
-      "streamURL": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/chunklist.m3u8",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac",
       "description": "AIR Hyderabad \u2014 entertainment.",
       "city": "Hyderabad",
       "region": "India"
