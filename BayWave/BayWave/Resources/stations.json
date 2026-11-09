@@ -876,7 +876,7 @@
       "callLetters": "KCSN",
       "frequency": "88.5 FM",
       "genre": "indie",
-      "streamURL": "https://stream.885fm.org/1",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/KCSNFMAAC.aac",
       "description": "Cal State Northridge \u2014 adult album alternative.",
       "city": "Northridge",
       "region": "Los Angeles"
