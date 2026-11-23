@@ -557,7 +557,7 @@
       "callLetters": "WFMU",
       "frequency": "91.1 FM",
       "genre": "indie",
-      "streamURL": "http://stream2.wfmu.org/freeform-128k",
+      "streamURL": "http://stream2.wfmu.org/drummer",
       "description": "Jersey City \u2014 long-running freeform radio.",
       "city": "Jersey City",
       "region": "New York"
@@ -568,7 +568,7 @@
       "callLetters": "WFMU",
       "frequency": null,
       "genre": "specialty",
-      "streamURL": "http://stream2.wfmu.org/freeform-128k",
+      "streamURL": "http://stream2.wfmu.org/drummer",
       "description": "WFMU second stream, deep cuts.",
       "city": "Jersey City",
       "region": "New York"
@@ -700,7 +700,7 @@
       "callLetters": "HUNG",
       "frequency": null,
       "genre": "pop",
-      "streamURL": "http://eu4.fastcast4u.com:1546/mp3",
+      "streamURL": "https://www.hamropatro.com/api/radio/stream/5135177703489536",
       "description": "Bollywood Dil Se.",
       "city": "Mumbai",
       "region": "India"
